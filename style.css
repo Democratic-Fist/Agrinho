@@ -1,6 +1,17 @@
 img {
- size: 1300x1000px;
+ width: 750px;
+ height: 680px;
+ padding-left: 300px;
+ padding-right: 300px;
 }
 body {
+    text-align: center;
+    color: white;
+    background: grey;
     margin:0px;
+}
+
+h1 {
+    color: black;
+    background-color: white;
 }
