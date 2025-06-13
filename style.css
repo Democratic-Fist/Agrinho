@@ -12,6 +12,43 @@ body {
 }
 
 h1 {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-size: 100px;
     color: black;
-    background-color: white;
+}
+ 
+p {
+    color: greenyellow;
+    padding-right: 55px;
+    padding-left: 55px;
+    font-size: 25px;
+}
+
+h2 {
+    color: black;
+    font-size: 60px;
+}
+
+.ow {
+    height: 300px;
+    margin-left: 32px;
+    margin-right: 32px;
+    background: white;
+}
+
+h3 {
+    color: black;
+    font-size: 60px;
+}
+
+.fk {
+    font-size: 40px;
+    padding-left: 450px;
+    padding-right:450px;
+    height: 120px;
+}
+
+.s {
+    height: 120px;
 }
